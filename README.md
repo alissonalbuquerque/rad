@@ -6,7 +6,6 @@ Esse repositório se destina a manter os diagramas UML que foram desenvolvidos n
 &nbsp;
 
 ## Documentação
----
 
 - Plant UML - https://plantuml.com/
 - PlantUML VSCODE - https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml
@@ -15,7 +14,6 @@ Esse repositório se destina a manter os diagramas UML que foram desenvolvidos n
 &nbsp;
 
 ## Documentos
----
 
 * :notebook: História de Usuário
 * :notebook: Documento de Requisitos
