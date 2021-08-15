@@ -10,7 +10,7 @@ Esse repositório se destina a manter os diagramas UML que foram desenvolvidos n
 
 - Plant UML - https://plantuml.com/
 - PlantUML VSCODE - https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml
-
+- Linguagem UML - https://pt.wikipedia.org/wiki/UML
 
 &nbsp;
 
