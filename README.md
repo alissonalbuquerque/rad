@@ -15,9 +15,6 @@ Esse repositório se destina a manter os diagramas UML que foram desenvolvidos n
 
 ## Documentos
 
-* :notebook: História de Usuário
-* :notebook: Documento de Requisitos
-
 * :notebook: Documento de Casos de Uso
 * :ledger: Diagrama de Casos de Uso
 * :pencil2: Prototipação do Sistema
